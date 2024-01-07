@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Tache-validation2/static/css/main.fdbc964b.css",
+    "main.js": "/Tache-validation2/static/js/main.dbc20b91.js",
+    "static/js/787.26dc1c8a.chunk.js": "/Tache-validation2/static/js/787.26dc1c8a.chunk.js",
+    "static/media/row4.png": "/Tache-validation2/static/media/row4.8e466a4d041ca1b39815.png",
+    "static/media/revicons.eot": "/Tache-validation2/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Tache-validation2/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Tache-validation2/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/Tache-validation2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Tache-validation2/index.html",
+    "static/media/eye.svg": "/Tache-validation2/static/media/eye.e99d74334ad6397152628e2098cbc42b.svg",
+    "static/media/heart.svg": "/Tache-validation2/static/media/heart.27cf625b15dd614828adb40336c2e861.svg",
+    "static/media/cart.svg": "/Tache-validation2/static/media/cart.05dfd14f0943edf68c9a30788565c795.svg",
+    "static/media/arrow.svg": "/Tache-validation2/static/media/arrow.5c6f32c6cb6037967f4171c25dd3576a.svg",
+    "main.fdbc964b.css.map": "/Tache-validation2/static/css/main.fdbc964b.css.map",
+    "main.dbc20b91.js.map": "/Tache-validation2/static/js/main.dbc20b91.js.map",
+    "787.26dc1c8a.chunk.js.map": "/Tache-validation2/static/js/787.26dc1c8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdbc964b.css",
+    "static/js/main.dbc20b91.js"
+  ]
+}
